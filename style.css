@@ -1,0 +1,81 @@
+body{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuUJN9emnmhqgV2RBGhfHsCsQS4c4hlRLgMg&usqp=CAU');
+}
+.content{
+	opacity: 0.9
+}
+.tel_num{
+	color: #fff;
+	background-color: #90bfe3;
+}
+.footer_menu1{
+	text-align: center;
+	background-color: #343a40;
+	border: 1px solid #000;
+	height: 30px;
+	padding: 45px;
+}
+.footer_menu2{
+	background-color: #343a40;
+	color: #b33742;
+	height: 50px;
+	text-align: center;
+}
+.a{
+	color: #b33742;
+}
+.a:hover{
+	text-decoration: none;
+}
+.icons{
+
+	padding-left: 40px;
+	margin-top: 15px;
+	width: 50px;
+}
+.a_icons{
+	color: #b33752;
+}
+.icon_copyright{
+	display: inline-block;
+}
+.copyright{
+	display: inline-block;
+}
+.carousel_img{
+	min-width: 250px;
+}/*
+.c_g{
+	 opacity: 0.9;
+}*/
+.filtr{
+	border:1px solid black;
+	background: #fff;
+}
+.checkbox_label{
+	color: blue ;
+}
+.product_div{
+	display: inline-block;
+	background-color: #fff;
+	border: 1px solid #000;
+}
+.product-title{
+	display: inline-block;
+	font-size: 20px;
+}
+.addtc{
+	display: block;
+}
+.single{
+	border: 1px solid #000;
+	background-color: #fff;
+}
+#fancy{
+	border: 1px solid #000;
+	margin-top: 5px;
+
+}
+.about_product{
+font-size: 25px;
+}
