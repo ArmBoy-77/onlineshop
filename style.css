@@ -4,6 +4,13 @@ body{
 .content{
 	opacity: 0.9
 }
+.p_c{
+	color:#000;
+}
+.p_c:hover{
+	text-decoration: none;
+	color:#000;
+}
 .tel_num{
 	color: #fff;
 	background-color: #90bfe3;
